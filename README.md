@@ -20,3 +20,5 @@
   by using try and catch Block. In CoursefullException if the enrollment_limit of any course is reached then the student cant add it to their course and 
   In InvalidLoginException if any user is entering wrong credential then the errors are handled by this function. Similarly if any student want to Drop a Course 
   after a certain Deadline then that it Handled by DeadlinePassedException.
+# uml diagram 
+https://lucid.app/lucidchart/9e3acbf7-8c22-4ef0-bfa8-e34db00a1223/edit?invitationId=inv_320684c8-3e63-4a67-9479-1433714ae8a2&page=0_0#
